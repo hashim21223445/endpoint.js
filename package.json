@@ -33,7 +33,7 @@
     "semantic-release": "^24.0.0",
     "semantic-release-plugin-update-version-in-files": "^1.0.0",
     "typescript": "^5.5.3",
-    "vitest": "^2.0.2"
+    "vitest": "^2.0.3"
   },
   "dependencies": {
     "@octokit/types": "^13.0.0",
